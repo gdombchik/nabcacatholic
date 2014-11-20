@@ -1,0 +1,7 @@
+[27-Feb-2014 07:03:41 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/nabca/public_html/wp-includes/query.php on line 2011
+[27-Feb-2014 07:15:35 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/nabca/public_html/wp-includes/query.php on line 2011
+[27-Feb-2014 07:16:11 UTC] PHP Warning:  stripslashes() expects parameter 1 to be string, array given in /home/nabca/public_html/wp-includes/query.php on line 2168
+[27-Feb-2014 07:21:56 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/nabca/public_html/wp-includes/query.php on line 2011
+[27-Feb-2014 07:31:44 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/nabca/public_html/wp-includes/query.php on line 2011
+[27-Feb-2014 07:32:07 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/nabca/public_html/wp-includes/query.php on line 2011
+[27-Feb-2014 07:32:10 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/nabca/public_html/wp-includes/query.php on line 2011

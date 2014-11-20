@@ -1,0 +1,6 @@
+[28-Oct-2013 23:19:38 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/nabca/public_html/wp-content/themes/twentyeleven/tag.php on line 10
+[01-Nov-2013 05:51:55 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/nabca/public_html/wp-content/themes/twentyeleven/index.php on line 15
+[26-Dec-2013 19:17:46 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/nabca/public_html/wp-content/themes/twentyeleven/404.php on line 10
+[24-May-2014 16:09:58 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/nabca/public_html/wp-content/themes/twentyeleven/index.php on line 15
+[28-May-2014 13:38:14 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/nabca/public_html/wp-content/themes/twentyeleven/tag.php on line 10
+[30-May-2014 07:12:03 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/nabca/public_html/wp-content/themes/twentyeleven/404.php on line 10
