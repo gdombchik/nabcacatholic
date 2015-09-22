@@ -1,0 +1,56 @@
+<!-- BEGIN .ministries-wrapper -->
+<div class="ministries-wrapper ministries-four">
+<ul>
+	<li class="image"><img src="http://gbd.fwd.wf/nabcacatholic/wp-content/uploads/2011/10/PamHarris200x270.jpg" alt="" width="200" height="270" />
+<h2><a class="style1" href="#">Pam Harris</a></h2>
+PRESIDENT</li>
+	<li class="image"><img src="http://gbd.fwd.wf/nabcacatholic/wp-content/uploads/2011/10/Johnnie-Dorsey200x270.jpg" alt="" width="200" height="270" />
+<h2><a class="style1" href="#">Johnnie Dorsey, Sr. </a></h2>
+VICE PRESIDENT</li>
+	<li class="image"><img src="http://gbd.fwd.wf/nabcacatholic/wp-content/uploads/2011/10/aaBlank200x270.jpg" alt="" width="200" height="270" />
+<h2><a class="style1" href="#">-VACANT-</a></h2>
+SECRETARY</li>
+	<li class="image"><a href="http://gbd.fwd.wf/nabcacatholic/wp-content/uploads/2011/08/james_watts-picture.jpg"><img class="alignnone size-full wp-image-539" src="http://gbd.fwd.wf/nabcacatholic/wp-content/uploads/2011/08/james_watts-picture.jpg" alt="james_watts-picture" width="200" height="270" /></a>
+<h2><a class="style1" href="#">James Watts</a></h2>
+TREASURER</li>
+	<li class="spacer"></li>
+	<li class="image"><img src="http://gbd.fwd.wf/nabcacatholic/wp-content/uploads/2011/10/aaBlank200x270.jpg" alt="" width="200" height="270" />
+<h2><a class="style1" href="#">Judge Arthur McFarland </a></h2>
+PARLIAMENTARIAN</li>
+	<li class="image"><img src="http://gbd.fwd.wf/nabcacatholic/wp-content/uploads/2011/12/LindaLaCour.jpg" alt="" width="200" height="270" />
+<h2><a class="style1" href="#">Linda LaCour </a></h2>
+CHAIR OF THE ANNUAL MEETING</li>
+	<li class="image"><img src="http://gbd.fwd.wf/nabcacatholic/wp-content/uploads/2011/10/aaBlank200x270.jpg" alt="" width="200" height="270" />
+<h2><a class="style1" href="#">Patty January </a></h2>
+REGION 1</li>
+	<li class="image"><img src="http://gbd.fwd.wf/nabcacatholic/wp-content/uploads/2011/10/aaBlank200x270.jpg" alt="" width="200" height="270" />
+<h2><a class="style1" href="#">Gwen Summers </a></h2>
+REGIONS 2, 3</li>
+	<li class="spacer"></li>
+	<li class="image"><img src="http://gbd.fwd.wf/nabcacatholic/wp-content/uploads/2011/10/DeaconAlTurner200x270.jpg" alt="" width="200" height="270" />
+<h2><a class="style1" href="#">Deacon Al Turner </a></h2>
+REGION 4</li>
+	<li class="image"><img src="http://gbd.fwd.wf/nabcacatholic/wp-content/uploads/2011/10/Annette-Turner200x270.jpg" alt="" width="200" height="270" />
+<h2><a class="style1" href="#">M. Annette Turner </a></h2>
+REGION 5</li>
+	<li class="image"><img src="http://gbd.fwd.wf/nabcacatholic/wp-content/uploads/2011/10/aaBlank200x270.jpg" alt="" width="200" height="270" />
+<h2><a class="style1" href="#">John Thorne </a></h2>
+REGION 6</li>
+	<li class="image"><img src="http://gbd.fwd.wf/nabcacatholic/wp-content/uploads/2011/12/AndrewLyke.jpg" alt="" width="200" height="270" />
+<h2><a class="style1" href="#">Andrew Lyke</a></h2>
+REGION 7,8,9</li>
+	<li class="spacer"></li>
+	<li class="image"><img src="http://gbd.fwd.wf/nabcacatholic/wp-content/uploads/2011/10/CarolWhite200x270.jpg" alt="" width="200" height="270" />
+<h2><a class="style1" href="#">Carol White </a></h2>
+REGION 10</li>
+	<li class="image"><img src="http://gbd.fwd.wf/nabcacatholic/wp-content/uploads/2011/10/aaBlank200x270.jpg" alt="" width="200" height="270" />
+<h2><a class="style1" href="#">Anderson Shaw </a></h2>
+REGIONS 11, 12, 13</li>
+	<li class="image"><img src="http://gbd.fwd.wf/nabcacatholic/wp-content/uploads/2011/10/aaBlank200x270.jpg" alt="" width="200" height="270" />
+<h2><a class="style1" href="#">Katrina Reeves-Jackson </a></h2>
+REGION 14</li>
+	<li class="image"></li>
+</ul>
+<!-- END .ministries-wrapper -->
+
+</div>

@@ -140,17 +140,6 @@ Template Name: Homepage
 				</div>
 				
 				<!-- BEGIN .homepage-columns-item -->
-				<div class="homepage-columns-item">
-					<div class="title">
-						<div style="background: url(<?php echo $ib3_image;?>) center left no-repeat;"><?php echo $ib3_title;?></div>
-					</div>
-					<div class="text">
-						<p><?php echo $ib3_text;?></p><p><a href="<?php echo $ib3_url;?>" class="more-link"><?php printf ( __( 'Read more' , 'rayoflight' ));?></a></p>
-					</div>
-				<!-- END .homepage-columns-item -->
-				</div>
-				
-				<!-- BEGIN .homepage-columns-item -->
 				<div class="homepage-columns-item last">
 					<div class="title">
 						<div style="background: url(<?php echo $ib4_image;?>) center left no-repeat;"><?php echo $ib4_title;?></div>

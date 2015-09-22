@@ -81,23 +81,7 @@
         </div>				
       
       <!-- END .footer-wrapper -->		
-      </div>						
-      
-      <!-- BEGIN .footer-wrapper-2 -->		
-      <div class="footer-wrapper-2">						
-     
-        <!-- BEGIN .footer-2 -->			
-        <div class="footer-2">							
-          
-          <div class="left">Copyright &#169; 2011 <b><a href="http://www.jade7.com" target="_blank">Jade7.com</a></b></div>		
-                      
-          <div class="right">Design by <b><a href="http://jade7.com" target="_blank">Jade7.com</a></b></div>						
-          
-        <!-- END .footer-2 -->			
-        </div>	
-              
-      <!-- END .footer-wrapper-2 -->		
-      </div>	
+      </div>
     	
     <?php wp_footer(); ?>	
     
